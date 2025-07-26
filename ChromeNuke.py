@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Chrome Military-Grade Data Deletion Tool
+ChromeNuke Military-Grade Data Deletion Tool
 A professional-grade application for secure deletion of Chrome browser data
 with multiple overwrite passes and forensic-level data destruction.
 
@@ -307,7 +307,7 @@ class ChromeDataDestroyer(ctk.CTk):
         super().__init__()
         
         # Configure window
-        self.title("Chrome Military-Grade Data Destroyer v2.1.0")
+        self.title("ChromeNuke - Military-Grade Data Destroyer v2.1.0")
         self.geometry("900x700")
         self.resizable(True, True)
         
