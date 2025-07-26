@@ -286,6 +286,6 @@ If ChromeNuke helps secure your data, please:
 
 <div align="center">
 
-**Made with for digital security**
+**Made for digital security**
 
 </div>
