@@ -4,7 +4,7 @@ Chrome Military-Grade Data Deletion Tool
 A professional-grade application for secure deletion of Chrome browser data
 with multiple overwrite passes and forensic-level data destruction.
 
-Author: Advanced Security Tools
+Author: LMLK-seal
 Version: 2.1.0
 License: MIT
 """
