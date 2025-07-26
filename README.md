@@ -7,6 +7,8 @@
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)]()
 [![Security](https://img.shields.io/badge/Security-DoD%205220.22--M-red.svg)]()
 
+![ChromeNukeLogo](https://github.com/LMLK-seal/ChromeNuke/blob/main/ChromeNukeLogo.png?raw=true)
+
 **Military-Grade Chrome Browser Data Destruction Tool**
 
 *Professional-grade secure deletion with DoD 5220.22-M compliance*
