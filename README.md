@@ -136,7 +136,7 @@ python chromenuke.py
 <summary>🖼️ View Application Screenshots</summary>
 
 ### Main Interface
-![Main Interface](screenshots/main_interface.png)
+![Main Interface](https://github.com/LMLK-seal/ChromeNuke/blob/main/ChromeNukePreview.png?raw=true)
 
 </details>
 
